@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../supabase"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../migrations"
+		},
+		{
+			"path": "../venv"
+		},
+		{
+			"path": "../utils"
+		},
+		{
+			"path": "../models"
+		},
+		{
+			"path": "../agents"
+		},
+		{
+			"path": "../src"
+		}
+	]
+}

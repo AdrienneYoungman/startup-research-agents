@@ -1,0 +1,16 @@
+{
+    "intro": "Hi! Thanks so much for taking the time to chat with me.\n\nI'm doing early research on behalf of a founder who's exploring a new idea. They're genuinely interested in learning what's *really* going on for people like you — even if the truth is messy or unexpected.\n\nSo please be brutally honest. That's exactly what the founder *wants and needs* at this stage.\n\nEverything you share will be kept confidential and only shared in aggregated form with the founder — never directly linked to you.\n\nSound good?",
+    "context_question": "The founder is keen to understand your experience when it comes to \"{domain}\"\n\n Could you share some background? Could you tell me about any goals you currently have with regards to \n\n\"{domain}\"\n\n? What are you currently trying to do to reach those goals? What emotions do you feel as you work towards them?",
+    "problem_statement_intro": "Thanks! Unless there's anything else you'd like tos hare we can zoom into some specific 'problem spaces' that the founder is exploring.",
+    "problem_validation": {
+        "resonance_prompt": "On a scale of 1 to 5, how much does this statement resonate with your own personal experience?\n\n🧠 \"{problem_statement}\"",
+        "explanation_prompt": "Can you tell me more about why you gave that score?\n→ Was there a situation or example that came to mind?",
+        "action_prompt": "Have you ever taken any steps to try to tackle this?\n→ How did it go?"
+    },
+    "value_prop_test": {
+        "pitch_prompt": "Here's a value proposition the founder is exploring:\n\n✨ \"{value_prop}\"\n\nIf they delivered on that, how likely would you be to:\n→ {target_action}\n\n(Very likely, somewhat likely, unsure, unlikely, very unlikely)",
+        "price_prompt": "If that worked as promised, what would you expect to pay for it?\n→ What would feel fair?\n→ What would feel expensive?"
+    },
+    "intent_prompt": "Would it be okay if we shared your email with the founder so they can invite you to {follow_up_action}?",
+    "closing": "That's all from my side — is there anything else you think I should understand about your experience?\n\nReally appreciate your time and honesty. 🙏"
+} 
